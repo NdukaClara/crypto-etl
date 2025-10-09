@@ -141,6 +141,7 @@ FROM crypto_db.processed_data
 WHERE processed_date = '2025-10-06'
 ORDER BY timestamp DESC;
 
+```
 
 🧾 Setup and Deployment
 
