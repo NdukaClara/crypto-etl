@@ -193,12 +193,6 @@ All rights are reserved — reuse, modification, or redistribution of any part o
 This project showcases how to design a real-world, event-driven data engineering pipeline in AWS —
 from ingestion to transformation to notification — all automated and serverless.
 
-Whether you’re learning AWS data engineering or building your own cloud-based ETL,
-this project serves as a clear, reproducible reference.
-
-
-⚠️ Before deploying, replace placeholders like <your-s3-bucket> and <your-sns-topic-arn> with your actual AWS resource names.
-
 
 ✨ Author
 
