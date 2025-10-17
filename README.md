@@ -148,7 +148,7 @@ ORDER BY timestamp DESC;
 All setup steps (S3, Glue, Lambda, EventBridge, SNS, IAM roles, and Athena configuration)
 are fully documented here:
 
-📘 docs/setup_instructions.md
+📂 **[docs/setup_instructions.md](./docs/setup_instructions.md)**
 
 
 
