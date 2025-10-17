@@ -194,9 +194,9 @@ This project showcases how to design a real-world, event-driven data engineering
 from ingestion to transformation to notification — all automated and serverless.
 
 
-✨ Author
+## ✨ Author
 
-Clara Nduka
-Software Engineer
-📫 ndukaclara@gmail.com
-💼 linkedin.com/in/clara-nduka
+**Clara Nduka**  
+_Data & Software Engineer_  
+📫 [ndukaclara@gmail.com](mailto:ndukaclara@gmail.com)  
+💼 [linkedin.com/in/clara-nduka](https://www.linkedin.com/in/clara-nduka)
