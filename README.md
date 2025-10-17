@@ -182,9 +182,10 @@ AWS Glue 4.0 or newer.
 Active SNS subscription (verify email to receive notifications).
 
 
-🧾 License
+## 🧾 License
 
-This project is open-source and provided under the MIT License.
+This project is publicly available for learning and demonstration purposes only.  
+All rights are reserved — reuse, modification, or redistribution of any part of this codebase is **not permitted** without explicit permission from the author.
 
 
 ✨ Author’s Note
